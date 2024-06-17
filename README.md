@@ -1,4 +1,4 @@
-# 👋 Hi, I’m SHair 👀
+# 👋 Ken
 
 <!---
 shair2048/shair2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
