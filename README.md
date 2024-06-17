@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @shair2048 👀
+# 👋 Hi, I’m SHair 👀
 
 <!---
 shair2048/shair2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 #
 
 ### 📊 Stats
-![SHair's GitHub stats](https://github-readme-stats.vercel.app/api?username=shair2048&show_icons=true&theme=merko)
+![SHair's GitHub stats](https://github-readme-stats.vercel.app/api?username=shair2048&show_icons=true&theme=tokyonight)
