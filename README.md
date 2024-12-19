@@ -1,5 +1,5 @@
 # 👋 Welcome to my profile
-
+<p align="center"><img src="https://giphy.com/embed/sIIhZliB2McAo" width="480" height="302" style="" frameBorder="0" class="giphy-embed" allowFullScreen></p>
 <!---
 shair2048/shair2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
