@@ -29,4 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shair2048&show_icons=true&theme=dracula" alt="SHair's GitHub Stats">
 </p>
 
-![Leetcode Stats](https://leetcode.com/u/shair2048/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shair2048)
