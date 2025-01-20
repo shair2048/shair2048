@@ -25,7 +25,7 @@
 ## 📊 Stats
 <!---![SHair's GitHub stats](https://github-readme-stats.vercel.app/api?username=shair2048&show_icons=true&theme=dracula)--->
 
-<p align="center">
+<p align="center" flex-direction="column" >
   <img src="https://github-readme-stats.vercel.app/api?username=shair2048&show_icons=true&theme=dracula" alt="SHair's GitHub Stats">
   <img src="https://leetcard.jacoblin.cool/shair2048" alt="Leetcode Stats">
 </p>
