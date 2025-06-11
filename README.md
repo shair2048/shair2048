@@ -1,6 +1,6 @@
 # 💫 Hi there
+### I'm a Student and Developer!!
 🔭 I’m currently learning
-
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/son.hai.233010) 
@@ -40,5 +40,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shair2048&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
