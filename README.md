@@ -1,6 +1,6 @@
 # 💫 Hi there
 ## I'm a Student and Developer!!
-🔭 I’m currently learning
+🔭 I’m currently learning<br>
 🎮 Fun fact: Gaming and programming are my hobbies
 
 ## 🌐 Socials:
