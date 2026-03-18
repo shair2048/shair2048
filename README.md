@@ -1,7 +1,5 @@
 # 💫 Hi there
 ## I'm a Student and Developer!!
-🔭 I’m currently learning<br>
-🎮 Fun fact: Gaming and programming are my hobbies
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/son.hai.233010) 
